@@ -12,6 +12,7 @@ int main(){
     scanf("%d%d%d", &hour, &minute, &second);
     clrscr();
 
+    
     int i, h = 0, m = 0, s = 0;
     while (i){
         printf("\n\n####### STOP WATCH ######\n\n\n");
