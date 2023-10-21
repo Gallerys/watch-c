@@ -6,6 +6,7 @@
 #define sleep(x) Sleep(x*1000)
 #define clrscr() printf("\e[1;1H\e[2J")
 
+
 int main(){
     int hour, minute, second;
     printf("enter Hour Minute Second : ");
