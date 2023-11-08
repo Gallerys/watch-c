@@ -21,6 +21,7 @@ int main(){
         if(h == hour && m == minute && s == second){
             break;
         }
+            
         else{
             clrscr();
         }
